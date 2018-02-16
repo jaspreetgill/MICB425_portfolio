@@ -37,7 +37,7 @@ metadata %>%
 #Getting rid of black lines with specifying stat as "Identity"
 #Add title and axis labels with ggtitle, xlab, and ylab
 plot_bar(physeq_percent, fill="Class") + 
-  geom_bar(aes(fill=Phylum), stat="identity") +  
+  geom_bar(aes(fill=Class), stat="identity") +  
   ggtitle("Classes from 10-200m in Saanich Inlet") +
   xlab("Sample depth") + ylab("Percent relative abundance")
 ```
