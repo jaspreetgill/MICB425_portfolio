@@ -43,11 +43,11 @@ output:
 ## Data science Friday  
 
 ### Installation check
-![Figure 1.](DS_Assignment1.1.png){width=50%}  
+![Figure 1.](images/DS_Assignment1.1.png){width=50%}  
 
-![Figure 2.](DS_Assignment1.2.png){width=50%}  
+![Figure 2.](images/DS_Assignment1.2.png){width=50%}  
 
-![Figure 3.](DS_Assignment1.3.png){width=50%}  
+![Figure 3.](images/DS_Assignment1.3.png){width=50%}  
 
 ### Portfolio repo setup
 1) To create my portfolio:  
@@ -67,39 +67,7 @@ b) Return to terminal:
 
 
 ### RMarkdown pretty html challenge
-*Note: Assignment headers have '.' in front of them so as not to clutter the portfolio headings.  
-.# R Markdown PDF Challenge  
-The following assignment is an exercise for the reproduction of this .html document using the RStudio and RMarkdown tools we've shown you in class. Hopefully by the end of this, you won't feel at all the way this poor PhD student does. We're here to help, and when it comes to R, the internet is a really valuable resource. This open-source program has all kinds of tutorials online.
-
-![http://phdcomics.com/ Comic posted 1-17-2018](image.png)
-
-.##Challenge Goals  
-The goal of this R Markdown html challenge is to give you an opportunity to play with a bunch of different RMarkdown formatting. Consider it a chance to flex your RMarkdown muscles. Your goal is to write your own RMarkdown that rebuilds this html document as close to the original as possible. So, yes, this means you get to copy my irreverant tone exactly in your own Markdowns. It's a little window into my psyche. Enjoy =)
-
-**hint: go to the [PhD Comics website](http://phdcomics.com/) to see if you can find the image above**  
-*If you can't find that exact image, just find a comparable image from the PhD Comics website and include it in your markdown*
-
-.### Here's a header!  
-Let's be honest, this header is a little arbitrary. But show me that you can reproduce headers with different levels please. This is a level 3 header, for your reference (you can most easily tell this from the table of contents).
-
-.####Another header, now with maths  
-Perhaps you're already really confused by the whole markdown thing. Maybe you're so confused that you've forgotten how to add. Never fear! ~~A calculator~~ R is here:  
-
-``` {r}
-1231521+12341556280987
-```
-
-.### Table Time  
-Or maybe, after you've added those numbers, you feel like it's about time for a table!  
-I'm going to leave all the guts of the coding here so you can see how libraries (R packages) are loaded into R (more on that later). It's not terribly pretty, but it hints at how R works and how you will use it in the future. The summary function used below is a nice data exploration function that you may use in the ^future^.
-
-```{r}
-library(knitr)
-kable(summary(cars),caption="I made this table with kable in the knitr package library")
-```
-
-And now you've almost finished your first RMarkdown! Feeling excited? We are! In fact, we're so excited that maybe we need a big finale eh? Here's ours! Include a fun gif of your choice!  
-![title](larrydavid.gif){width=50%}
+See .Rmd and .html files "DS_assignment3_19163147" in portfolio repo
 
 ### Assignment 4  
 See R script "DS_assignment4_19163147" in portfolio repo
@@ -111,7 +79,7 @@ See R script "DS_assignment4_19163147" in portfolio repo
 #### Learning objectives
 Describe the numerical abundance of microbial life in relation to ecology and biogeochemistry of Earth systems. 
 
-#### General questions
+#### Specific questions
 * What were the main questions being asked?  
 **How many prokaryotes are present? How much carbon do they produce?**  
 
@@ -127,15 +95,78 @@ Describe the numerical abundance of microbial life in relation to ecology and bi
 * Were there any specific challenges or advantages in understanding the paper (*e.g.* did the authors provide sufficient background information to understand experimental logic, were methods explained adequately, were any specific assumptions made, were conclusions justified based on the evidence, were the figures or tables useful and easy to understand)?  
 **They presented enough evidence in the paper to supplement the conclusion. The methods could have been a bit more descriptive, especially with the calculations. There could have been more justification in how the calculations were made.**
 
+### Evidence worksheet 02   
+[Kasting & Siefert 2002](http://science.sciencemag.org/content/296/5570/1066.long)  
+
+#### Learning objectives  
+Comment on the emergence of microbial life and the evolution of Earth systems
+    
+#### Specific Questions   
+* Indicate the key events in the evolution of Earth systems at each approximate moment in the time series. If times need to be adjusted or added to the timeline to fully account for the development of Earth systems, please do so. 
+
+    + 4.6 billion years ago: solar system formed, inner planets had water --> high CO2, high water vapour pressure, high temperatures    
+    
+    + 4.5 billion years ago: earth hit by an object causing moon to form, earth slightly tilted, night and day cycles created habitats    
+    
+    + 3.8 billion years ago: meteorites halted - sea water chemistry stabilized (sulfate reduction), early methanogensis  
+    
+    + 3.5 billion years ago: real evidence of life from carbon isotopes from ocean sedimentary rocks; rubisco - carbon fixation, photosynthesis  
+    
+    + 2.7 billion years ago: possible eukaryotes   
+    
+    + 2.2 billion years ago: rocks recognized as red beds - oxidation involved    
+    
+    + 2.1 billion years ago: appreciable oxygen, switch between mitochondria and chloroplast, increased complexity of life  
+    
+    + 1.3 billion years ago
+    
+    + 550,000 years ago
+    
+    + 200,000 years ago
+
+
+* Describe the dominant physical and chemical characteristics of Earth systems at the following waypoints:  
+
+    + Hadean  
+    
+    + Archean  
+    
+    + Precambrian  
+    
+    + Proterozoic  
+    
+    + Phanerozoic  
+    
+
+### Evidence worksheet 03  
+[pick one](link)
+
+#### Learning objectives: 
+Evaluate human impacts on the ecology and biogeochemistry of Earth systems.  
+
+#### Specific Questions:
+* What were the main questions being asked? 
+ 
+
+
+* What were the primary methodological approaches used?  
+
+
+* Summarize the main results or findings. 
+
+
+* Do new questions arise from the results?  
+
+* Were there any specific challenges or	advantages in	understanding the	 paper (e.g.	 did	 the	authors	 provide	 sufficient background information to understand experimental logic, were methods	explained	adequately,	were	any	specific	assumptions	made,	were	conclusions	justified	based	on	the	evidence,	were	the	figures	or tables useful and	easy to understand)?
 
 
 ### Problem set 01
 [Whitman *et al* 1998](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC33863/)  
 
-#### Learning objectives: 
+#### Learning objectives  
 Describe the numerical abundance of microbial life in relation to the ecology and biogeochemistry of Earth systems.
 
-#### Specific questions:
+#### Specific questions  
 * What are the primary prokaryotic habitats on Earth and how do they vary with respect to their capacity to support life? Provide a breakdown of total cell abundance for each primary habitat from the tables provided in the text.  
 **Aquatic: 1.181 x 10^29^ cells**  
 **Soil: 2.556 x 10^29^ cells**    
@@ -194,7 +225,158 @@ Describe the numerical abundance of microbial life in relation to the ecology an
 * What relationships can be inferred between prokaryotic abundance, diversity, and metabolic potential based on the information provided in the text?   
 **The relationship between these three can be seen as cyclic. Prokaryotes are so abundant because of their rapid growth rate and ability to survive in harsh conditions due to the amount of metabolic processes they can carry out. Because they are so abundant with a rapid growth rate, this leads to genetic diversity, which results in prokaryotes that can perform many different metabolic reactions. The fact that they have so much metabolic potential allows their abundance to continue.**  
 
+### Problem set 02   
+#### Learning objectives  
+Discuss the role of microbial diversity and formation of coupled metabolism in driving global biogeochemical cycles.
+
+#### Specific Questions  
+* What are the primary geophysical and biogeochemical processes that create and sustain conditions for life on Earth? How do abiotic versus biotic processes vary with respect to matter and energy transformation and how are they interconnected?  
+
+* Why is Earth's redox state considered an emergent property?
+  
+
+* How do reversible electron transfer reactions give rise to element and nutrient cycles at different ecological scales? What strategies do microbes use to overcome thermodynamic barriers to reversible electron flow?  
+
+* Using information provided in the text, describe how the nitrogen cycle partitions between different redox "niches" and microbial groups. Is there a relationship between the nitrogen cycle and climate change?   
+
+* What is the relationship between microbial diversity and metabolic diversity and how does this relate to the discovery of new protein families from microbial community genomes?  
+
+* On what basis do the authors consider microbes the guardians of metabolism?  
+
 
 
 ### Module 01 references
-Whitman WB, Coleman DC, and Wiebe WJ. 1998. Prokaryotes: The unseen majority. Proc Natl Acad Sci USA. 95(12):6578-6583.  [PMC33863](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC33863/)
+Achenback J. 2012. [Spaceship Earth: A new view of environmentalism.](https://www.washingtonpost.com/national/health-science/spaceship-earth-a-new-view-of-environmentalism/2011/12/29/gIQAZhH6WP_story.html?utm_term=.4d3aeac98db8) The Washington Post.  
+
+Canfield DE, Glazer AN, and Falkowski PG. 2010. [The Evolution and Future of Earth's Nitrogen Cycle.](https://www.ncbi.nlm.nih.gov/pubmed/20929768) Science. 330(6001):192-196.  
+
+Falkowski PG, Fenchel T, and Delong EF. 2008. [The Microbial Engines That Drive Earth's Biogeochemical Cycles.](https://www.ncbi.nlm.nih.gov/pubmed/18497287) Science. 320(5879):1034-1039.  
+
+Kallmeyer J *et al.*. 2012. [Global distribution of microbial abundance and biomass in subseafloor sediment.](https://www.ncbi.nlm.nih.gov/pubmed/22927371) Proc Natl Acad Sci USA. 109(40):16213-16216.   
+
+Kasting JF and Siefert JL. 2002. [Life and the Evolution of Earth's Atmosphere.](http://science.sciencemag.org/content/296/5570/1066.long) Science. 295(5570):1066-1068.  
+
+Leopold A. 1949. [The Land Ethic.](http://rintintin.colorado.edu/~vancecd/phil3140/Leopold.pdf) Location: Publisher. *A Sand County Almanac*. 
+
+Mooney C. 2016. [Scientists say humans have now brought on an entirely new geologic epoch.](https://www.washingtonpost.com/news/energy-environment/wp/2016/01/07/scientists-say-humans-have-now-brought-on-an-entirely-new-geologic-epoch/?utm_term=.fe0893313ea1) The Washington Post.  
+
+Nisbet EG and Sleep NH. 2001. [The habitat and nature of early life.](https://www.nature.com/articles/35059210) Nature. 409:1083-1091.  
+
+Rockstrom J *et al.* 2009. [A safe operating space for humanity.](https://www.nature.com/articles/461472a) Nature. 461:472-475.  
+
+Waters CN *et al.* 2016. [The Anthropocene is functionally and stratigraphically distinct from the Holocene](http://science.sciencemag.org/content/351/6269/aad2622) Science. 351(6269):aad2622.  
+
+Whitman WB, Coleman DC, and Wiebe WJ. 1998. Prokaryotes: The unseen majority. Proc Natl Acad Sci USA. 95(12):6578-6583.  [PMC33863](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC33863/)  
+
+
+
+# Module 2 
+## Metagenomics: Genomic Analysis of Microbial Communities  
+### Evidence worksheet 04  
+#### Learning objectives  
+Discuss	the	relationship	between	microbial	community	structure	and	metabolic	diversity. Evaluate	common	methods	for	studying	the	diversity	of	microbial	communities. Recognize basic	design	elements	in	metagenomic	workflows.  
+
+#### Specific Questions:
+* What were the main questions being asked?  
+**How can we decribe PR photosystem genetics and biochemistry?**  
+**Further characterize PR photosystem structure and function**  
+
+
+* What were the primary methodological approaches used?  
+**Functionally surveyed marine picoplankton large-insert genomic library for recombinant clones expressing PR photosystems in vivo**  
+**Exploited transient increases in vector copy number that significantly enhanced the sensitivity of phenotypic detection**  
+
+* Summarize the main results or findings.   
+**1) Two genetically distinct recombinants (identified by their orange pigmentation) expressed a cluster of genes encoding a complete PR-based photosystem**  
+**2) Heterologous expression of 6 genes (5 for photopigment biosynthetic proteins and 1 encoding a PR) generated a fully functional PR photosystem that enabled photophosphorylation in recombinant *E. coli* cells exposed to light**  
+**3) A single genetic event can result in the acquisition of phototrophic capabilities in an otherwise chemoorganotrophic microorganism**  
+**4) Explains the ubiquity of PR photosystems among diverse microbial taxa**  
+**5) Took dna from environment, programmed heterologous host, looked for particular phenotype, discovered minimal set of genes required to express that phenotype**  
+
+* Do new questions arise from the results?  
+
+* Were there any specific challenges or	advantages in	understanding the	 paper (e.g.	 did	 the	authors	 provide	 sufficient background information to understand experimental logic, were methods	explained	adequately,	were	any	specific	assumptions	made,	were	conclusions	justified	based	on	the	evidence,	were	the	figures	or tables useful and	easy to understand)?
+
+### Problem set 03   
+#### Learning objectives: 
+Specific emphasis should be placed on the process used to find the answer. Be as comprehensive as possible e.g. provide URLs for web sources, literature citations, etc.  
+
+
+#### Specific Questions:
+* How many prokaryotic divisions have been described and how many have no cultured representatives (microbial dark matter)?  
+**2016: 89 bacterial phyla, 20 archael phyla (via 16S rRNA databases). But could be up to 1500 bacterial phyla, as there are microbes that libe in the "shadow biosphere"**  
+**2003: 26 of 52 major bacterial phyla have been cultivated**  
+
+* How many metagenome sequencing projects are currently available in the public domain and what types of environments are they sourced from?  
+**According to EBI Metagenomics, there are 110,217 data sets which consists of 10,653 metagenomes. They were sourced from multiple environments, including soil, humans, marine, freshwater, plants, and grassland.**  
+
+* What types of on-line resources are available for warehousing and/or analyzing environmental sequence information (provide names, URLS and applications)?  
+*Shotgun Metagenomics*  
+**Assembly - Euler**  
+**Binning - S-GCOM**  
+**Annotation - KEGG**  
+**Analysis pipelines - Megan 5**  
+*Marker Gene Metagenomics*  
+**Standalone software - OTUbase**  
+**Analysis pipelines - SILVA (gold standard)**  
+**Denoising - Amplicon Noise**  
+**Databases - RDP (also good)**  
+*Data Warehousing - Databases*  
+**IMG/M, MG-RAST, NCBI/EBI which will give you sequences to feed into the aforementioned softwares**  
+
+* What is the difference between phylogenetic and functional gene anchors and how can they be used in metagenome analysis?  
+**Phylogenetic: vertigal gene transfer, carry phylogenetic information allowing tree reconstruction, taxonomix, ideally single-copy**  
+**Functional: more horizontal gene transfer, identify specific biogeochemical functions associated with measurable effects, not as useful for phylogeny**  
+
+* What is metagenomic sequence binning? What types of algorithmic approaches are used to produce sequence bins? What are some risks and opportunities associated with using sequence bins for metabolic reconstruction of uncultivated microorganisms?  
+**The process of grouping of sequences that come from a single genome**  
+**Types of algorithms: align sequences to database, group to each other based in DNA characteristics (GC content, codon usage)**  
+**Risks: incomplete coverage of genome sequence, contamination from different phylogeny**  
+
+* Is there an alternative to metagenomic shotgun sequencing that can be used to access the metabolic potential of uncultivated microorganisms? What are some risks and opportunities associated with this alternative?  
+**Functional screens (biochmical assays, etc.), 3rd generation sequencing (nanopore), single cell sequencing, FISH probe**  
+
+	
+
+# Module 3  
+## Microbial Species Concepts  
+### Evidence worksheet 05
+#### Learning objectives part 1: 
+Evaluate the concept of microbial species based on environmental surveys and
+cultivation studies. Explain the relationship between microdiversity, genomic diversity and metabolic
+potential. Comment on the forces mediating divergence and cohesion in natural microbial
+communities
+
+
+#### Specific Questions:
+* What were the main questions being asked?  
+**The different genes involved in E. coli pathogenicity and the difference between different strains of E. coli**  
+ 
+
+* What were the primary methodological approaches used?  
+**Isolate from a hospital patient**  
+**Random clones sequenced using dye-terminator chemistry and data collected on ABI sequencers**  
+**Sequence data assembled by SEQMANII**  
+**Whole genome XhoI optical map for ordering of contigs and providing physical map of whole genome**  
+**Annotations using MAGPIE**  
+
+
+* Summarize the main results or findings. 
+**Only 39% of combined sets of proteins between a uropathic, enterohemorrhagic, and laboratory strain E. coli are common to all 3 strains**  
+
+
+* Do new questions arise from the results?  
+
+
+* Were there any specific challenges or	advantages in	understanding the	 paper (e.g.	 did	 the	authors	 provide	 sufficient background information to understand experimental logic, were methods	explained	adequately,	were	any	specific	assumptions	made,	were	conclusions	justified	based	on	the	evidence,	were	the	figures	or tables useful and	easy to understand)?	
+
+#### Learning objectives part 2:  
+Comment	on	 the	creative	 tension	between	gene	loss,	duplication	and	acquisition	as	it	
+relates	to	microbial	genome	evolution. Identify	common	molecular	signatures	used	to	infer	genomic	identity	and	cohesion. Differentiate	between	mobile	elements	and	different	modes	of	gene	transfer.  
+
+#### Specific Questions:  
+Based	on	your	reading	and	discussion	notes,	explain	the	meaning	and content	of	the	following	figure	derived	from	the	comparative	genomic	analysis	of	three E.	coli genomes	by	Welch	et	al.	
+Remember	 that	 CFT073	 is	 a	 uropathogenic	 strain	 and that	 EDL933	 is	 an	 enterohemorrhagic	strain.	 Explain	 how	 this	 study	 relates	 to	 your understanding	 of	 ecotype	 diversity. Provide	 a	definition	of	ecotype	in	the	context	of	the human	body.	Explain	why	certain	subsets	of	genes	in	CFT073	 provide	 adaptive	 traits under	 your	 ecological	 model and	 speculate	 on	 their	 mode	 of	vertical	descent	or	gene transfer.
+
+### Problem set 04
+See .Rmd and .html files "Problem_set_04_19163147" in porfolio repo
