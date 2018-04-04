@@ -7,38 +7,6 @@ output:
     toc: yes 
 ---
 # Module 01
-
-## Module 01 portfolio check
-* Installation check
-    + Completion status:
-    + Comments:
-* Portfolio repo setup
-    + Completion status: 
-    + Comments:
-* RMarkdown Pretty html Challenge
-    + Completion status:
-    + Comments:
-* Evidence worksheet_01
-    + Completion status:
-    + Comments:
-* Evidence worksheet_02
-    + Completion status:
-    + Comments:
-* Evidence worksheet_03
-    + Completion status:
-    + Comments:
-* Problem Set_01
-    + Completion status:
-    + Comments:
-* Problem Set_02
-    + Completion status:
-    + Comments:
-* Writing assessment_01
-    + Completion status:
-    + Comments:
-* Additional Readings
-    + Completion status:
-    + Comments  
     
 ## Data science Friday  
 
@@ -53,7 +21,7 @@ output:
 1) To create my portfolio:  
   `mkdir MICB245_portfolio`
 
-2) To initalize my portfolio:  
+2) To initialize my portfolio:  
 a) Created a repository called MICB425_portfolio on GitHub GUI  
 b) Return to terminal:  
   `cd ~/Documents/MICB425_portfolio`  
@@ -70,7 +38,7 @@ b) Return to terminal:
 See .Rmd and .html files "DS_assignment3_19163147" in portfolio repo
 
 ### Assignment 4  
-See R script "DS_assignment4_19163147" in portfolio repo
+See R script and .html files "DS_assignment4_19163147" in portfolio repo
 
 ## Origins and Earth Systems
 ### Evidence worksheet 01 
@@ -112,52 +80,75 @@ Comment on the emergence of microbial life and the evolution of Earth systems
     
     + 3.5 billion years ago: real evidence of life from carbon isotopes from ocean sedimentary rocks; rubisco - carbon fixation, photosynthesis  
     
+    + 3 billion years ago: year-round ice forming at North Pole
+    
     + 2.7 billion years ago: possible eukaryotes   
     
     + 2.2 billion years ago: rocks recognized as red beds - oxidation involved    
-    
     + 2.1 billion years ago: appreciable oxygen, switch between mitochondria and chloroplast, increased complexity of life  
     
-    + 1.3 billion years ago
+    + 1.3 billion years ago: first plants appear  
     
-    + 550,000 years ago
+    + 550 million years ago: Cambrian explosion, most major animal phyla appeared - rapid expansion of life  
     
-    + 200,000 years ago
+    + 550,000 years ago: Archaic humans appeared (*Homo neanderthalensis*)  
+    
+    + 200,000 years ago: Homo sapiens appear  
 
 
 * Describe the dominant physical and chemical characteristics of Earth systems at the following waypoints:  
 
-    + Hadean  
+    + Hadean: solar system forming within large cloud of gas around sun, earth initially molten, formation of moons, Heavy Bombardment  
     
-    + Archean  
+    + Archean: no continents, Earth's crust cooled, vast amounts of CO2 in atmosphere, low levels of sunlight so low heat, low oxygen levels  
     
-    + Precambrian  
+    + Precambrian: major volcanic events altering atmospheric composition; hit by large object causing moon to form  
     
-    + Proterozoic  
+    + Proterozoic: first known glaciations, ending with Snowball Earth (entirely frozen)  
     
-    + Phanerozoic  
+    + Phanerozoic: continents drifted apart, eventually connected as Pangaea and then split up again; most biological evolution
     
 
 ### Evidence worksheet 03  
-[pick one](link)
+[Rockstrom *et al*](https://www.nature.com/articles/461472a)  
 
 #### Learning objectives: 
 Evaluate human impacts on the ecology and biogeochemistry of Earth systems.  
 
 #### Specific Questions:
-* What were the main questions being asked? 
- 
-
+* What were the main questions being asked?  
+**How can we redfine preconditions for human development?**  
+**What are the consequences of crossing these boundaries?**  
 
 * What were the primary methodological approaches used?  
+**Proposed planetary boundaries to meet challenge of maintaining Holocene state which define the safe operating space for humanity**  
+**Many thresholds defined by critical value for one or more controlled variables**  
+**In general, planetary boundaries are values for control variables that are either at a 'safe' distance from thresholds (for processes with evidence of threshold behaviour) or at dangerous levels (for processes without evidence of thresholds)**  
 
 
-* Summarize the main results or findings. 
+* Summarize the main results or findings.  
+**9 processes:**  
+**- climate change**  
+**- ocean acidification**  
+**- stratospheric ozone depletion**  
+**- biogeochemical flow boundaries (interference with nitrogen and phosphorus cycles)**  
+**- global freshwater use**  
+**- change in land use**  
+**- biodiversity loss (terrestrial and marine)**  
+**- atmospheric aerosol loading (not yet quantified)**  
+**- chemical pollution (not yet quantified)**  
+**Three systems (rate of biodiversity loss, climate change, human interference with the nitrogen cycle) have already exceeded their boundaries.**  
 
 
 * Do new questions arise from the results?  
+**How do we define the boundaries for atmospheric aerosol and chemical pollution?**  
+**Can the boundaries that have been crossed be reversed?**  
+**To what extent are the boundaries linked?**  
+**How long does it take to cause significant environmental change?**  
 
-* Were there any specific challenges or	advantages in	understanding the	 paper (e.g.	 did	 the	authors	 provide	 sufficient background information to understand experimental logic, were methods	explained	adequately,	were	any	specific	assumptions	made,	were	conclusions	justified	based	on	the	evidence,	were	the	figures	or tables useful and	easy to understand)?
+* Were there any specific challenges or	advantages in	understanding the	 paper (e.g.	 did	 the	authors	 provide	 sufficient background information to understand experimental logic, were methods	explained	adequately,	were	any	specific	assumptions	made,	were	conclusions	justified	based	on	the	evidence,	were	the	figures	or tables useful and	easy to understand)?  
+**- units of biodiversity loss: why not just number of species/year? why number of species/million species/year?**  
+**- explanation for why atmospheric aerosol/chemical pollution is not quantified, or perhaps an estimate would've been helpful**  
 
 
 ### Problem set 01
@@ -226,22 +217,39 @@ Describe the numerical abundance of microbial life in relation to the ecology an
 **The relationship between these three can be seen as cyclic. Prokaryotes are so abundant because of their rapid growth rate and ability to survive in harsh conditions due to the amount of metabolic processes they can carry out. Because they are so abundant with a rapid growth rate, this leads to genetic diversity, which results in prokaryotes that can perform many different metabolic reactions. The fact that they have so much metabolic potential allows their abundance to continue.**  
 
 ### Problem set 02   
+[Falkowsi *et al* 2008](https://www.ncbi.nlm.nih.gov/pubmed/18497287)    
+
 #### Learning objectives  
 Discuss the role of microbial diversity and formation of coupled metabolism in driving global biogeochemical cycles.
 
 #### Specific Questions  
 * What are the primary geophysical and biogeochemical processes that create and sustain conditions for life on Earth? How do abiotic versus biotic processes vary with respect to matter and energy transformation and how are they interconnected?  
+**- geophysical: tectonics + atmospheric photochemical processes**  
+**- biogeochemical: nitrogen cycle**  
+**- abiotic: acid-base reactions (transfer of protons without electrons)**  
+**- biotic: redox reactions (transfer of electrons and protons)**  
+**Abiotic reactions pave the way of redox reactions**  
 
-* Why is Earth's redox state considered an emergent property?
+* Why is Earth's redox state considered an emergent property?  
+**- feedback between he evolution of microbial metabolic and geochemical processes create the average redox condition of the oceans and atmosphere. It is the result of a combination of processes**  
   
 
 * How do reversible electron transfer reactions give rise to element and nutrient cycles at different ecological scales? What strategies do microbes use to overcome thermodynamic barriers to reversible electron flow?  
+**- reduction of chemicals (eg. Nitrogen) fixes them in the environment - used by higher-level organisms**   
+**- synergistic cooperation of microbes; different microbes have different enzymes that have thermodynamically favourable reactions in different conditions causing a cycle**  
 
-* Using information provided in the text, describe how the nitrogen cycle partitions between different redox "niches" and microbial groups. Is there a relationship between the nitrogen cycle and climate change?   
+* Using information provided in the text, describe how the nitrogen cycle partitions between different redox "niches" and microbial groups. Is there a relationship between the nitrogen cycle and climate change?  
+**3 niches**  
+**- in presence of O2, NH4+ can be oxidized to nitrate in a 2-stage pathway (specific group of bacteria/archaea oxidizing ammonia to NO2-, which is then oxidized to nitrate by different nitrifying bactera)**  
+**- all nitrifiers use the small differences in redox potential in the oxidation reactions to reduce CO2 to organic matter**  
+**- in the absense of O2, set of microbes use NO2- and NO3- as electron acceptors in the anaerobic oxidation of organic matter, which forms N2 to complete the nitrogen cycle**  
+**Climate change affects the atmospheric composition, which in turn affects which set of microorganisms (which niche) will be active. This could throw off the nitrogen cycle and make parts of it more active than we are accustomed to.**  
 
 * What is the relationship between microbial diversity and metabolic diversity and how does this relate to the discovery of new protein families from microbial community genomes?  
+**Microbial diversity and metabolic diversity are positively related. There could be limitless evolutionary diversity in nature. As new protein families are discovered, it reinforces the concept that there is a large number of undiscovered species with undiscovered protein families**  
 
 * On what basis do the authors consider microbes the guardians of metabolism?  
+**The core global gene set is dispered among microbes by either vertical or horizontal gene transfer. Boutique genes have evolved due to environmental selection, and this protects the metabolic pathways these genes encode. If it goes extinct in one unit, there will be another microbial unit in which it will likely survive.**  
 
 
 
@@ -272,7 +280,9 @@ Whitman WB, Coleman DC, and Wiebe WJ. 1998. Prokaryotes: The unseen majority. Pr
 
 # Module 2 
 ## Metagenomics: Genomic Analysis of Microbial Communities  
-### Evidence worksheet 04  
+### Evidence worksheet 04 
+[Martinez *et al.* 2007](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1838496/)  
+
 #### Learning objectives  
 Discuss	the	relationship	between	microbial	community	structure	and	metabolic	diversity. Evaluate	common	methods	for	studying	the	diversity	of	microbial	communities. Recognize basic	design	elements	in	metagenomic	workflows.  
 
@@ -294,8 +304,10 @@ Discuss	the	relationship	between	microbial	community	structure	and	metabolic	div
 **5) Took dna from environment, programmed heterologous host, looked for particular phenotype, discovered minimal set of genes required to express that phenotype**  
 
 * Do new questions arise from the results?  
+**How can downstream genetic and biochemical characterization using bioinformatics occur? What pathway does the PR photosystem use to utilize light to biochemical energy conversion?**  
 
-* Were there any specific challenges or	advantages in	understanding the	 paper (e.g.	 did	 the	authors	 provide	 sufficient background information to understand experimental logic, were methods	explained	adequately,	were	any	specific	assumptions	made,	were	conclusions	justified	based	on	the	evidence,	were	the	figures	or tables useful and	easy to understand)?
+* Were there any specific challenges or	advantages in	understanding the	 paper (e.g.	 did	 the	authors	 provide	 sufficient background information to understand experimental logic, were methods	explained	adequately,	were	any	specific	assumptions	made,	were	conclusions	justified	based	on	the	evidence,	were	the	figures	or tables useful and	easy to understand)?  
+**Unsure of the purpose of inserting either one or multiple copies of the fosmid**  
 
 ### Problem set 03   
 #### Learning objectives: 
@@ -336,11 +348,18 @@ Specific emphasis should be placed on the process used to find the answer. Be as
 * Is there an alternative to metagenomic shotgun sequencing that can be used to access the metabolic potential of uncultivated microorganisms? What are some risks and opportunities associated with this alternative?  
 **Functional screens (biochmical assays, etc.), 3rd generation sequencing (nanopore), single cell sequencing, FISH probe**  
 
-	
+### Module 02 references
+Madsen EL. 2005. [Identifying microorganisms responsible for ecologically significant biogeochemical processes](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1838496/) Nature Reviews Microbiology. 104(13):5590-5595.
+
+Martinwz A, Bradley AS, Waldbauer JR, Summons RE, and DeLong EF. 2007. [Proteorhodopsin photosystem gene expression enables photophosphorylation in a heterologous host](https://www.nature.com/articles/nrmicro1151) Proc Natl Acad Sci USA. 3:439-446.
+
+Wooley JC, Godzik A, and Friedberg I. 2010. [A Primer on Metagenomics](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000667) PLoS Computational Biology. 6(2).
 
 # Module 3  
 ## Microbial Species Concepts  
 ### Evidence worksheet 05
+[Welch RA *et al.* 2002](https://www.ncbi.nlm.nih.gov/pubmed/12471157)  
+
 #### Learning objectives part 1: 
 Evaluate the concept of microbial species based on environmental surveys and
 cultivation studies. Explain the relationship between microdiversity, genomic diversity and metabolic
@@ -379,4 +398,7 @@ Based	on	your	reading	and	discussion	notes,	explain	the	meaning	and content	of	t
 Remember	 that	 CFT073	 is	 a	 uropathogenic	 strain	 and that	 EDL933	 is	 an	 enterohemorrhagic	strain.	 Explain	 how	 this	 study	 relates	 to	 your understanding	 of	 ecotype	 diversity. Provide	 a	definition	of	ecotype	in	the	context	of	the human	body.	Explain	why	certain	subsets	of	genes	in	CFT073	 provide	 adaptive	 traits under	 your	 ecological	 model and	 speculate	 on	 their	 mode	 of	vertical	descent	or	gene transfer.
 
 ### Problem set 04
-See .Rmd and .html files "Problem_set_04_19163147" in porfolio repo
+See .Rmd and .html files "Problem_set_04_19163147" in portfolio repo
+
+### Module 03 references
+Welch RA *et al.* 2002. [Extensive mosaic structure revealed by the complete genome sequence of uropathogenic Escherichia coli](https://www.ncbi.nlm.nih.gov/pubmed/12471157) Proc Natl Acad Sci USA. 99(26):17020-17024.
