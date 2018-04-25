@@ -1,0 +1,60 @@
+---
+title: "Project 1 self-assessment of contributions"
+author: Jaspreet Gill (19163147)
+subtitle: "2018 Term 2 - MICB425"
+output: html_document
+---
+
+## Abstract  
+I did not write the abstract.  
+
+### Writing
+I wrote the introduction.  
+
+### Editing
+I helped with editing the paper.  
+
+
+## Introduction
+### Literature research
+I did the literature research.  
+
+### Writing
+I wrote the introduction.  
+
+### Editing
+I edited the introduction.  
+
+
+## Methods
+### Writing
+I added a few sentences to the methods.  
+
+### Editing
+I edited the methods.  
+
+
+## Results
+### Analysis 
+I helped with ideas for the analysis and some troubleshooting with R.  
+
+### Figures
+I helped with ideas for the figures.  
+
+### Writing
+I did not write the results.  
+
+### Editing
+I edited the results.  
+
+
+## Discussion
+### Literature research
+I did not do the literature research for the discussion.  
+
+### Writing
+I did not write the discussion.  
+
+### Editing
+I edited the discussion.  
+

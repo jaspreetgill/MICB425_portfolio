@@ -7,38 +7,6 @@ output:
     toc: yes 
 ---
 # Module 01
-    
-## Data science Friday  
-
-### Installation check
-![Figure 1.](images/DS_Assignment1.1.png){width=50%}  
-
-![Figure 2.](images/DS_Assignment1.2.png){width=50%}  
-
-![Figure 3.](images/DS_Assignment1.3.png){width=50%}  
-
-### Portfolio repo setup
-1) To create my portfolio:  
-  `mkdir MICB245_portfolio`
-
-2) To initialize my portfolio:  
-a) Created a repository called MICB425_portfolio on GitHub GUI  
-b) Return to terminal:  
-  `cd ~/Documents/MICB425_portfolio`  
-  `git init`  
-  
-3) To push my portfolio to GitHub:  
-  `git add .`  
-  `git commit -m "message"`  
-  `git status`   
-  `git push`
-
-
-### RMarkdown pretty html challenge
-See .Rmd and .html files "DS_assignment3_19163147" in portfolio repo
-
-### Assignment 4  
-See R script and .html files "DS_assignment4_19163147" in portfolio repo
 
 ## Origins and Earth Systems
 ### Evidence worksheet 01 
@@ -251,7 +219,39 @@ Discuss the role of microbial diversity and formation of coupled metabolism in d
 * On what basis do the authors consider microbes the guardians of metabolism?  
 **The core global gene set is dispered among microbes by either vertical or horizontal gene transfer. Boutique genes have evolved due to environmental selection, and this protects the metabolic pathways these genes encode. If it goes extinct in one unit, there will be another microbial unit in which it will likely survive.**  
 
+### Writing Assessment 01 
 
+## Data science Friday  
+
+### Installation check
+![Figure 1.](images/DS_Assignment1.1.png){width=50%}  
+
+![Figure 2.](images/DS_Assignment1.2.png){width=50%}  
+
+![Figure 3.](images/DS_Assignment1.3.png){width=50%}  
+
+### Portfolio repo setup
+1) To create my portfolio:  
+  `mkdir MICB245_portfolio`
+
+2) To initialize my portfolio:  
+a) Created a repository called MICB425_portfolio on GitHub GUI  
+b) Return to terminal:  
+  `cd ~/Documents/MICB425_portfolio`  
+  `git init`  
+  
+3) To push my portfolio to GitHub:  
+  `git add .`  
+  `git commit -m "message"`  
+  `git status`   
+  `git push`
+
+
+### RMarkdown pretty html challenge
+See .Rmd and .html files "DS_assignment3_19163147" in portfolio repo
+
+### Assignment 4  
+See R script and .html files "DS_assignment4_19163147" in portfolio repo
 
 ### Module 01 references
 Achenback J. 2012. [Spaceship Earth: A new view of environmentalism.](https://www.washingtonpost.com/national/health-science/spaceship-earth-a-new-view-of-environmentalism/2011/12/29/gIQAZhH6WP_story.html?utm_term=.4d3aeac98db8) The Washington Post.  
@@ -259,6 +259,8 @@ Achenback J. 2012. [Spaceship Earth: A new view of environmentalism.](https://ww
 Canfield DE, Glazer AN, and Falkowski PG. 2010. [The Evolution and Future of Earth's Nitrogen Cycle.](https://www.ncbi.nlm.nih.gov/pubmed/20929768) Science. 330(6001):192-196.  
 
 Falkowski PG, Fenchel T, and Delong EF. 2008. [The Microbial Engines That Drive Earth's Biogeochemical Cycles.](https://www.ncbi.nlm.nih.gov/pubmed/18497287) Science. 320(5879):1034-1039.  
+
+Falkowski PG *et al*. 2000. [The Global Carbon Cycle: A Test of Our Knowledge of Earth as a System.](http://science.sciencemag.org/content/290/5490/291) Science. 290(5490):291-296.
 
 Kallmeyer J *et al.*. 2012. [Global distribution of microbial abundance and biomass in subseafloor sediment.](https://www.ncbi.nlm.nih.gov/pubmed/22927371) Proc Natl Acad Sci USA. 109(40):16213-16216.   
 
@@ -268,11 +270,13 @@ Leopold A. 1949. [The Land Ethic.](http://rintintin.colorado.edu/~vancecd/phil31
 
 Mooney C. 2016. [Scientists say humans have now brought on an entirely new geologic epoch.](https://www.washingtonpost.com/news/energy-environment/wp/2016/01/07/scientists-say-humans-have-now-brought-on-an-entirely-new-geologic-epoch/?utm_term=.fe0893313ea1) The Washington Post.  
 
-Nisbet EG and Sleep NH. 2001. [The habitat and nature of early life.](https://www.nature.com/articles/35059210) Nature. 409:1083-1091.  
+Nisbet EG and Sleep NH. 2001. [The habitat and nature of early life.](https://www.nature.com/articles/35059210) Nature. 409:1083-1091.   
+
+Schrag DP. 2012. [Geobiology of the Anthropocene](https://onlinelibrary.wiley.com/doi/10.1002/9781118280874.ch22). Wiley Online Library.  
 
 Rockstrom J *et al.* 2009. [A safe operating space for humanity.](https://www.nature.com/articles/461472a) Nature. 461:472-475.  
 
-Waters CN *et al.* 2016. [The Anthropocene is functionally and stratigraphically distinct from the Holocene](http://science.sciencemag.org/content/351/6269/aad2622) Science. 351(6269):aad2622.  
+Waters CN *et al.* 2016. [The Anthropocene is functionally and stratigraphically distinct from the Holocene](http://science.sciencemag.org/content/351/6269/aad2622). Science. 351(6269):aad2622.  
 
 Whitman WB, Coleman DC, and Wiebe WJ. 1998. Prokaryotes: The unseen majority. Proc Natl Acad Sci USA. 95(12):6578-6583.  [PMC33863](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC33863/)  
 
@@ -349,11 +353,13 @@ Specific emphasis should be placed on the process used to find the answer. Be as
 **Functional screens (biochmical assays, etc.), 3rd generation sequencing (nanopore), single cell sequencing, FISH probe**  
 
 ### Module 02 references
-Madsen EL. 2005. [Identifying microorganisms responsible for ecologically significant biogeochemical processes](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1838496/) Nature Reviews Microbiology. 104(13):5590-5595.
+Madsen EL. 2005. [Identifying microorganisms responsible for ecologically significant biogeochemical processes](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1838496/). Nature Reviews Microbiology. 104(13):5590-5595.
 
-Martinwz A, Bradley AS, Waldbauer JR, Summons RE, and DeLong EF. 2007. [Proteorhodopsin photosystem gene expression enables photophosphorylation in a heterologous host](https://www.nature.com/articles/nrmicro1151) Proc Natl Acad Sci USA. 3:439-446.
+Martinwz A, Bradley AS, Waldbauer JR, Summons RE, and DeLong EF. 2007. [Proteorhodopsin photosystem gene expression enables photophosphorylation in a heterologous host](https://www.nature.com/articles/nrmicro1151). Proc Natl Acad Sci USA. 3:439-446.  
 
-Wooley JC, Godzik A, and Friedberg I. 2010. [A Primer on Metagenomics](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000667) PLoS Computational Biology. 6(2).
+Taupp M, Mewis K, and Hallam SJ. [The art and design of functional metagenomic screens](https://www.ncbi.nlm.nih.gov/pubmed/21440432). Curr Opin Biotechnol. 22(3):465-472.
+
+Wooley JC, Godzik A, and Friedberg I. 2010. [A Primer on Metagenomics](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000667). PLoS Computational Biology. 6(2).
 
 # Module 3  
 ## Microbial Species Concepts  
@@ -361,9 +367,7 @@ Wooley JC, Godzik A, and Friedberg I. 2010. [A Primer on Metagenomics](http://jo
 [Welch RA *et al.* 2002](https://www.ncbi.nlm.nih.gov/pubmed/12471157)  
 
 #### Learning objectives part 1: 
-Evaluate the concept of microbial species based on environmental surveys and
-cultivation studies. Explain the relationship between microdiversity, genomic diversity and metabolic
-potential. Comment on the forces mediating divergence and cohesion in natural microbial
+Evaluate the concept of microbial species based on environmental surveys andcultivation studies. Explain the relationship between microdiversity, genomic diversity and metabolic potential. Comment on the forces mediating divergence and cohesion in natural microbial
 communities
 
 
@@ -382,12 +386,18 @@ communities
 
 * Summarize the main results or findings. 
 **Only 39% of combined sets of proteins between a uropathic, enterohemorrhagic, and laboratory strain E. coli are common to all 3 strains**  
+**No virulence plasmid found; 5 cryptic prophages; 70% of ORFs identified as unique to ED or MF are now replaced with new genes which are specific to CFT073**  
+**Analysis done on CFT073 on the basis that codon usage would defer between the backbone and the islands; 52 of 61 island ORFs had significantly different frequency distribution than from the backbone**  
 
 
 * Do new questions arise from the results?  
+**What criteria should we use to differntiate species and their diversity?**  
+**How diverse are the different types of microbes in different ecotypes even when they're related?**  
 
 
 * Were there any specific challenges or	advantages in	understanding the	 paper (e.g.	 did	 the	authors	 provide	 sufficient background information to understand experimental logic, were methods	explained	adequately,	were	any	specific	assumptions	made,	were	conclusions	justified	based	on	the	evidence,	were	the	figures	or tables useful and	easy to understand)?	
+**The images were difficult to understand and weren't clearly explained, so it was a bit hard to follow**  
+**Background material was sufficient to understanding the context of the paper**  
 
 #### Learning objectives part 2:  
 Comment	on	 the	creative	 tension	between	gene	loss,	duplication	and	acquisition	as	it	
@@ -395,10 +405,83 @@ relates	to	microbial	genome	evolution. Identify	common	molecular	signatures	used
 
 #### Specific Questions:  
 Based	on	your	reading	and	discussion	notes,	explain	the	meaning	and content	of	the	following	figure	derived	from	the	comparative	genomic	analysis	of	three E.	coli genomes	by	Welch	et	al.	
-Remember	 that	 CFT073	 is	 a	 uropathogenic	 strain	 and that	 EDL933	 is	 an	 enterohemorrhagic	strain.	 Explain	 how	 this	 study	 relates	 to	 your understanding	 of	 ecotype	 diversity. Provide	 a	definition	of	ecotype	in	the	context	of	the human	body.	Explain	why	certain	subsets	of	genes	in	CFT073	 provide	 adaptive	 traits under	 your	 ecological	 model and	 speculate	 on	 their	 mode	 of	vertical	descent	or	gene transfer.
+Remember	 that	 CFT073	 is	 a	 uropathogenic	 strain	 and that	 EDL933	 is	 an	 enterohemorrhagic	strain.	 Explain	 how	 this	 study	 relates	 to	 your understanding	 of	 ecotype	 diversity. Provide	 a	definition	of	ecotype	in	the	context	of	the human	body.	Explain	why	certain	subsets	of	genes	in	CFT073	 provide	 adaptive	 traits under	 your	 ecological	 model and	 speculate	 on	 their	 mode	 of	vertical	descent	or	gene transfer.  
+
+**The figure displays the size and location of islands found in both the CFT073 and EDL933 strains. These shared islands encode putative iron-uptake systems, a complex set of potential fatty acid biosynthetic enzymes, several adhesins, and phosphotransferase system and ATP-binding cassette (ABC)-type transport systems. It's interesting that despite being inserted at the same location in the backbone of both strains that the two islands may have completely different content. Ecotype diversity refers to the genotypic and phenotypic differences within populations of a single species. In this study, we see that CFT073 and EDL933 are found in two different locations of the human body. The environmental differences in the two locations pose different challenges for the two strains, causing CFT073 to express a different subset of genes than EDL933.**   
+
 
 ### Problem set 04
 See .Rmd and .html files "Problem_set_04_19163147" in portfolio repo
 
+### Writing Assessment 03 
+A eukaryotic species is relatively simple to define, as the species criteria (for most eukaryotes) is the ability to sexually reproduce within that species and no other species. For prokaryotes, however, the concept of species becomes more difficult to define, as many of them reproduce asexually. Currently, microorganisms are classified by their similarities in size, shape, and most importantly, genes. The use of 16S rRNA to phylogenetically classify species has greatly increased our estimates of microbial diversity (Riley and Lizotte-Waniewski, 2010). However, horizontal gene transfer (HGT) plays a largely underestimated role in evolution. Since certain genes can be transferred between completely different species, the microbial phylogenetic tree becomes more of a network. This is one of the reasons defining a microbial species is increasingly challenging. This paper will discuss the challenges in defining microbial species, with an emphasis on how HGT complicates the matter. In addition, it will analyze how HGT influences the maintenance of biogeochemical processes through time and extinctions. Finally, I will argue that it is necessary to have a clear definition of a microbial species so that an accurate representation of biological diversity can be maintained and understood.  
+
+#### **Challenges in defining microbial species** 
+There are countless challenges that arise when attempting to define a microbial species. Due to their small size and morphological simplicity of prokaryotes, it is not feasible to use appearance as a species classifier as it is used for higher eukaryotes (Rossello-Mora and Amann, 2006). In addition, since there are very few useful fossil records, the ancient history of microbial evolution is difficult to track. Several different concepts of how to distinguish species have been proposed (Wilkins, 2006). One of these is based on mechanisms of genetic exchange and recombination similar to sexual reproduction which allows for maintenance of a core genome. Another concept proposes that species are merely ecotypes, and species are defined by where they are found. A third option states species concepts are too conventional to capture the essence of microbial life, and no definition will apply to every case (Wilkins, 2006).  
+
+16S rRNA is the most common determining factor used for microbial species classifications (Rossello-Mora and Amann, 2006). The problem with this technique is that it assumes that gene transfer has not occurred between rRNA genes and the amount of dissimilarity between rRNA sequences is representative of the dissimilarity of genomes (Rossello-Mora and Amann, 2006). This method is not as effective when examining closely related species, making it difficult to use to identify new species if they are similar to existing species in terms of their 16S rRNA. There are examples of different species with identical 16S sequences, and small differences in 16S sequences within members of the same species (Rossello-Mora and Amann, 2006). Therefore, 16S is not a completely accurate measure on its own for species definitions.  
+
+Since prokaryotes do not reproduce sexually, the main driver of genetic diversity is mutations. Moreover, prokaryotes have evolved HGT systems in which different species can exchange genetic information. The problem with 16S rRNA sequencing is that it only relies on one gene, and HGT may play a large role in evolution that is not accounted for. However, HGT may also result in vastly different species being classified as phylogenetically related, even though there is not a phylogenetic relationship between the two, as HGT violates species boundaries as opposed to preserving them (Ereshefsky, 2010). Prokaryotes can also undergo homologous recombination with species that are up to 25% divergent in the sequences of homologous genes and can express plasmid genes from extremely divergent species (Rossello-Mora and Amann, 2006). This complicates species boundaries because vastly different species can share very similar genes, which makes the use of genes to identify species even more complex.  
+
+#### **Influence of HGT on biogeochemical process maintenance**
+Microorganisms are the drivers of Earth's biogeochemical cycles, and horizontal gene transfer has enabled core genes to persist. While the Earth's atmosphere has changed drastically, there exists a core set of microbial genes that still remain today (Falkowski et al., 2008). HGT allows for highly advantageous genetic information to be shared in changing environmental conditions (Drudge and Warren, 2012). These genes are responsible for coding enzymes responsible for the major biogeochemical cycles that sustain life. One example of this is sulfite reductases which are found in a variety of microorganisms such as sulfate-reducing proteobacteria, Gram-positive bacteria, and Archaea (Falkowski et al., 2008). In addition to genes, entire metabolic pathways have been transferred via HGT from microbe to microbe. HGT has allowed for the distribution of different components of biogeochemical pathways to different organisms. This trait is crucial in preventing pathways from dying out.   
+
+HGT allows for the presence of redundant pathways, so that if one species went extinct, there would be numerous others that could carry out the same metabolic processes. Therefore, while certain microorganisms could be wiped out, the core machinery would survive. For example, the entire anoxygenic photosynthetic apparatus appears to have been transferred between phototropic proteobacteria, and similar transfers could have occurred during the establishment of oxygenic photosynthesis (Nagashima et al., 1997). The cause of the retention of horizontally transferred genes is likely nutritional selective pressures, which allows different organisms in different environments to preserve these genes (Falkowski et al., 2008).   
+
+#### **Necessity of microbial species definition**
+I believe it is important to have a clear definition for what is considered a microbial species. Without a recognized definition, we would have no basis to judge whether species diversity was increasing or decreasing over time. In addition, we wouldn't be able to track evolutionary change, namely because if we don't have definitions for species, we cannot know when new species arise. In addition, if a universal definition for species isn't used among researchers, it will result in inconsistencies when a claim is made about a new species. Furthermore, inconsistency is species definition would be troublesome for pathologists when trying to identify the cause of an infection. If two related species are broadly claimed to be the same species due to inconsistent species definitions, then an inappropriate treatment may be recommended.    
+
+Sogin et al. estimate that the complexity of microbial life is 100 times greater than current estimates (2006). While this is largely due to incomplete sampling of the vast ecosystems present on Earth, it could also be an artifact of unclear species definitions defining multiple different species as the same. This poses a problem for ecological microbiologists, as these different kinds of microorganisms may be members of different biogeochemical pathways. Without a clear species definition, it may be difficult to fully understand the workings of microbial metabolic processes and discover new processes.   
+
+However, it may be possible for some leniency to be allowed with the species definition. Prokaryotes have many different modes of evolution, so a strict species definition may not encompass these varying methods. Due to horizontal gene transfer, the boundary that separates species is blurred. Similar to how defining a eukaryotic species is different than a prokaryotic species due to the differences in the reproduction, perhaps there could be some differences in the definitions of different prokaryotic groups based on their methods of reproduction. This may allow for consistency based on organisms who use horizontal gene transfer and other forms of genetic exchange, and organisms who primary reproduce by binary fission and evolve through mutations.   
+
+#### **Conclusion**
+Defining prokaryotic species is one of the major challenges facing the microbiological world today. Without a clear species definition, inconsistencies among researchers, ecologists, and pathologists could arise, hindering their ability to move forward in their fields. Horizontal gene transfer is a large factor in microbial genetic exchange, even between unrelated microbial species. While this process allows for the conservation of core genes responsible for the regulation of Earth's biogeochemical processes, it makes it increasingly difficult to identify species and differentiate them. Ochman et al. have looked at the extent of gene transfer that occurs within species and between species, and a more in-depth analysis could look further at the major processes that have been conserved due to horizontal gene transfer. It remains to be seen how HGT will affect the ever-changing definition of a microbial species.  
+
+#### **References**
+Drudge, C.N. and Warren, L.A. (2012). [Prokaryotic Horizontal Gene Transfer in Freshwaer Lakes: Implications of Dynamic Biogeochemical Zonation.](http://file.scirp.org/Html/5-6701657_25690.htm) Journal of Environmental Protection, 3(12): 1634-1654.  
+
+Ereshefksy, M. (2010). [Microbiology and the species problem.](https://phil.ucalgary.ca/marcereshefsky/sites/phil.ucalgary.ca.marcereshefsky/files/microbiology_and_species.pdf) Biol Philos, 25: 553-568. 
+
+Falkowski, P.G. et al. (2008). [The Microbial Engines That Drive Earth's Biogeochemical Cycles.](https://www.ncbi.nlm.nih.gov/pubmed/18497287) Science, 320, 1034-1039.  
+
+
+Nagashami, K.V.P. et al. (1997). [Horizontal transfer of genes coding for the photosynthetic reaction centers of purple bacteria.](https://link.springer.com/article/10.1007%2FPL00006212) Journal of Molecular Evolution, 45(2): 131-136. 
+
+Ochman, H. et al. (2000). [Lateral gene transfer and the nature of bacterial innovation.](https://www.ncbi.nlm.nih.gov/pubmed/10830951) Nature, 405(6784): 299-304.
+
+Riley, M.A. and Lizotte-Waniewski M. (2009). [Population Genomics and the Bacterial Species Concept.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2842946/) Methods Mol Bol, 532: 366-377.  
+
+Rossello-Mora, R. and Amann, R. (2006). [The species concept for prokaryotes.](https://www.ncbi.nlm.nih.gov/pubmed/11152940) FEMS Microbiology Reviews, 25(1).  
+
+Sogin, M.L. et al. (2006). [Microbial diversity in the deep sea and the underexplored "rare biosphere".](https://www.ncbi.nlm.nih.gov/pubmed/16880384) PNAS, 103(32): 12115-12120.  
+
+Wilkins, J.S. (2006). [The Concept and Causes of Microbial Species.](http://philsci-archive.pitt.edu/3426/) Hist. Phil. Life Sci., 28: 389-408.  
+
+
 ### Module 03 references
-Welch RA *et al.* 2002. [Extensive mosaic structure revealed by the complete genome sequence of uropathogenic Escherichia coli](https://www.ncbi.nlm.nih.gov/pubmed/12471157) Proc Natl Acad Sci USA. 99(26):17020-17024.
+Callahan BJ, McMurdie PJ, and Holmes SP. 2017. [Exact sequence variants should replace operational taxonomic units in marker-gene data analysis](https://www.ncbi.nlm.nih.gov/pubmed/28731476). ISME J. 11(12):2639-2643.  
+
+Codero OX *et al.* 2012. [Public good dynamics drive evolution of iron acquisition strategies in natural bacterioplankton populations.](https://www.ncbi.nlm.nih.gov/pubmed/23169633) Proc Natl Acad Sci USA. 109(49):20059-20064.  
+
+Gaudet AD, Ramer LM, Nakonechny J, Cragg JJ, and Ramer MS. 2010. [Small-Group Learning in an Upper-Level University Biology Class Enhances Academic Performance and Student Attitudes Toward Group Work](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0015821). PLoS.   
+
+Giovannoni SJ. 2012. [Vitamins in the sea.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3435215/) Proc Natl Acad Sci USA. 109(35):13888-13889.  
+
+Hallam SJ, Torres-Beltran M, and Hawley AK. 2017. [Monitoring microbial responses to ocean deoxygenation in a model oxygen minimum zone](https://www.nature.com/articles/sdata2017158). Scientific Data. 4(170158).
+
+Hawley AK *et al*. 2017. [A compendium of multi-omic sequence information from the Saanich Inlet water column](https://www.nature.com/articles/sdata2017160). Scientific Data. 4(170160).  
+
+Kunin V *et al*. 2010. [Wrinkles in the rare biosphere: pyrosequencing errors can lead to artificial inflation of diversity estimates.](https://www.ncbi.nlm.nih.gov/pubmed/19725865) Environmental Microbiology. 12(1):118-123.  
+
+Lundin D *et al*. 2012. [Which sequencing depth is sufficient to describe patterns in bacterial alpha- and beta-diversity?](https://www.ncbi.nlm.nih.gov/pubmed/23760801) Environmental Microbiology Rep. 4(3):367-372.   
+
+Morris JJ, Lenski RE, and Zinser ER. 2012. [The Black Queen Hypothesis: Evolution of Dependencies through Adaptive Gene Loss](http://mbio.asm.org/content/3/2/e00036-12.abstract). mBio. 3(2).  
+
+Sogin ML *et al.* 2006. [Microbial diversity in the deep sea and the underexplored "rare biosphere".](https://www.ncbi.nlm.nih.gov/pubmed/16880384) Proc Natl Acad Sci USA. 103(32):12115-12120.   
+
+Thompson JR *et al.* 2005. [Genotypic diversity within a natural coastal bacterioplankton population.](https://www.ncbi.nlm.nih.gov/pubmed/15731455) Science. 307(5713):1311-1313.  
+
+Torres-Beltran M *et al.* 2017. [A compendium of geochemical information from the Saanich Inlet water column.](https://www.nature.com/articles/sdata2017159) Scientific Data. 4(170159).
+
+Welch RA *et al.* 2002. [Extensive mosaic structure revealed by the complete genome sequence of uropathogenic Escherichia coli](https://www.ncbi.nlm.nih.gov/pubmed/12471157). Proc Natl Acad Sci USA. 99(26):17020-17024.  
