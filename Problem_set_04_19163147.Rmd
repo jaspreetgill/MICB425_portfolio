@@ -178,12 +178,30 @@ In Project 1, you will also see functions for calculating alpha-diversity in the
 For your sample:
 
 * What are the Simpson Reciprocal Indices for your sample and community using the R function?
+- sample - 20.83  
+- community - 23.17  
+
 * What are the chao1 estimates for your sample and community using the R function?
-    + Verify that these values match your previous calculations.
+- sample - 33   
+- community - 51    
 
 #### Part 5: Concluding activity
 If you are stuck on some of these final questions, reading the [Kunin et al. 2010](https://www.ncbi.nlm.nih.gov/pubmed/19725865) and [Lundin et al. 2012](https://www.ncbi.nlm.nih.gov/pubmed/23760801) papers may provide helpful insights. 
 
-* How does the measure of diversity depend on the definition of species in your samples?
-* Can you think of alternative ways to cluster or bin your data that might change the observed number of species?
-* How might different sequencing technologies influence observed diversity in a sample?
+* How does the measure of diversity depend on the definition of species in your samples?  
+- different people had different definitions of species  
+- if people classified different candies as the same species, they would have lower diversity values  
+
+* Can you think of alternative ways to cluster or bin your data that might change the observed number of species?  
+-  if we had a less complex phylogeny - including colour    
+- species definition:   
+-- similar metabollic processes of microbes   
+-- similar habitat    
+-- physical appearance     
+
+* How might different sequencing technologies influence observed diversity in a sample?  
+- consistent processing of each sample (extraction of nuceleic acids)   
+- different sequencing technologies may have different species definitions, which will affect the number of species and therefore the diversity
+- define what you consider a species within your research group (stay consistent) - 97% sequence/ 100% ASV  
+-- depends what technology you are using to analyze
+- same gene region; use the same primers (there are multiple sets of universal primers - but they are not really universal)  

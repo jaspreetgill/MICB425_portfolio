@@ -220,6 +220,77 @@ Discuss the role of microbial diversity and formation of coupled metabolism in d
 **The core global gene set is dispered among microbes by either vertical or horizontal gene transfer. Boutique genes have evolved due to environmental selection, and this protects the metabolic pathways these genes encode. If it goes extinct in one unit, there will be another microbial unit in which it will likely survive.**  
 
 ### Writing Assessment 01 
+"Microbial life can easily live without us; we, however, cannot survive without the global catalysis and environmental transformations it provides" (Falkowski, 2008). I believe that humans would not be able to live the same quality of life they are currently living if microorganisms were to disappear from the Earth.   
+
+Out of sight, out of mind? Microorganisms are usually not a part of the average person's daily thoughts. However, microorganisms such as bacteria and archaea play an extremely large role in our everyday lives. They aid in many bodily functions without us realizing, are present in a host of our food, and perhaps most importantly, are responsible for shaping the modern Earth's conditions. One could argue humans only exist today because of the atmospheric conditions that allowed for life on land, and subsequently, *Homo sapiens*, to evolve. The reason for those atmospheric conditions is microorganisms and the shifts in biogeochemical cycles that they cause.   
+
+This paper will not argue that humans would immediately die without microorganisms. However, I believe that without microorganisms, humans would not be able to enjoy the same, comfortable living conditions we enjoy today. I will argue for this by explaining how microorganisms are largely responsible for the global atmospheric composition. Next, I will argue that microorganisms are able to retain pathways and maintain diversity in ways humans can not. Finally, I will state why these processes are so important for humankind.	  
+  	
+
+#### **Microorganisms are responsible for global atmospheric conditions**
+The atmospheric conditions on Earth are mostly in the hands of microbial metabolism. Microorganisms are directly or indirectly responsible for almost all of the oxygen we breathe (Kasting and Siefert, 2002). The great oxygenation event occurred about 2 billion years ago and is thought to be the shift in Earth's history that allowed eukaryotic life to develop. This event can most likely be attributed to cyanobacteria, as they can live and grow both aerobically and anaerobically (Kasting and Siefert, 2002). Without this major event in Earth's history, it is certain that humans would not exist today.  
+
+In our modern world, we often attribute the oxygen we breathe to trees and land plants as they are what we see on a daily basis. However, photosynthesis due to land plants have very little effect on atmospheric oxygen because the process is essentially reversed by the processes of respiration and decay (Kasting and Siefert, 2002). Marine photosynthesis, most of which can be attributed to bacteria and archaea (in addition to eukaryotes like algae), on the other hand, results in a net oxygen flux because "a small fraction of organic matter synthesized in the oceans is buried in sediments", resulting in the leak of most of the global oxygen in the atmosphere (Kasting and Siefert, 2002). In addition to oxygen, prokaryotic bacteria are the main organisms responsible for fixing nitrogen (that is, reducing nitrogen gas) even though they make up only about 1% of the marine biomass (Kasting and Siefert, 2002). Microorganisms have highly evolved biological machinery which allows them to work together to complete different parts of the nitrogen cycle, which will be discussed in the next section. Almost all trace gases in our modern atmosphere, such as CH4, N2O, CH3Cl, COS, and dimethyl sulfide, are almost entirely biologically produced (Kasting and Siefert, 2002).  
+
+There is increased methane in the atmosphere today due to human activities leading to global warming. Methane gas today only has a 10-year residence time because of the reaction with the hydroxyl radical, but in anoxic times it could persist for 10,000 years (Kasting and Siefert, 2002). The gas was produced by methanogens, creating a methane haze which kept the Earth from freezing. Without the methane production in that era of Earth's history, the Earth would most likely be frozen. Archaea and bacteria can be said to have determined the basic atmospheric conditions since the origin of life (Kasting and Siefert, 2002).  
+
+
+#### **Microorganisms can uniquely maintain diversity and retain pathways**  
+Microorganisms are without a doubt the most abundant organisms on the planet. This abundance, paired with a rapid growth rate, is highly relevant in terms of its support in microorganisms' abilities to create and maintain genetic diversity. Their high turnover rate makes them especially susceptible to mutation accumulation which directly contributes to genetic diversity (Whitman *et al.*, 1998). This allows for development of crucial pathways and maintenance of redundant pathways. Although there is enormous genetic diversity, the core genes for major reduction-oxidation (redox) reactions have been preserved and are stable. These genes are essential for life and biogeochemical pathways (Falkowski, 2008).  
+
+The term emergent property is a popular one in the discussion of microorganisms. An emergent property refers to one that is not present in individuals but comes as a result of individuals working together. Many processes carried out by microorganisms are done by distributing different components of the pathways to different organisms. This specific trait of microorganisms is crucial in preventing pathways from dying out. In the event of a species going extinct, only one component of a pathway would be missing. As mentioned earlier, microbial pathways are often redundant and so a missing cog in the system could be easily replaced. The genes that were created and coevolved with biogeochemical cycles were passed between microorganisms primarily through horizontal gene transfer (Falkowski, 2008). If an operational taxonomic unit experiences a perturbation and doesn't survive, that unit could go extinct; however, the core machinery would survive (Falkowski, 2008).  
+
+Without biogeochemical cycles, the planet would reach an equilibrium, resulting in a slow depletion of substrates (Falkowski, 2008). Along with geochemical processes such as abiotic methane oxidation and diagenesis, microbes are responsible for maintaining the Earth's atmospheric composition with their biogeochemical metabolism (Falkowski, 2008). The enzymes that are necessary for these biogeochemical processes are distributed amongst different microorganisms. For example, the different steps of the nitrogen cycle are carried out by different microorganisms who, together, complete the cycle. Because of the reactions carried out by microorganisms working together by distributing pathways, it is ensured that the Earth's atmosphere continues to proceed as a cycle. Therefore, it can be stated that the redox state of the global atmosphere is an emergent property produced by microorganisms.  
+
+One reason that prokaryotes are abundant is because of their ability to survive in harsh conditions. They can survive in these harsh conditions because of the various metabolic processes they can carry out, giving them the ability to thrive in vastly different environments. Due to their abundance and high growth rate, they have enormous genetic diversity, which results in more prokaryotes that can perform many different metabolic reactions as well as the conservation of necessary pathways. This pattern of prokaryotic metabolic potential ensures that pathways continue to evolve as needed, and that redundancy exists so pathways are hardy and can survive over time.  
+
+
+#### **Humans could not survive without microbial processes**
+All of the processes described above are essential for human life. Microbes keep atmospheric oxygen at appropriate levels and convert nitrogen into usable form for other living organisms. Humans tend to believe they are the drivers of the world and they are the sole reason the planet is the way it is. Essentially, they believe they are self-sufficient in many ways. However, the processes that microorganisms perform at the scale that they do is non-replicable by non-biological (in terms of machines) or biological (in terms of other organisms) means. Elemental cycles are often studied in isolation, but it must be taken into account that they have coevolved and they all influence each other (Falkowski, 2008). When studying them, it is unknown how long they take to develop but it is known that photosynthesis was one of the last biogeochemical cycles to emerge (Falkowski, 2008). It would require a much deeper understanding of the cycles in order to replicate them without microorganisms.   
+
+In addition, humans do not share the same level of abundance, growth rate, and evolution rate as prokaryotes. Humans also do not combine efforts in order to complete metabolic pathways; we complete our required metabolic pathways by ourselves. Therefore, it would be impossible for us to evolve, nonetheless maintain valuable enzymes required for human metabolism in the same way that microorganisms do. Furthermore, the efficiency of microorganisms would need to be considered as well, since they carry out these essential biogeochemical processes in relation with each other which allows them to streamline their metabolism.  
+
+While I do not believe humans would cease to exist, the quality of life without microorganisms would drastically decrease. There would be a drastic reduction in oxygen, causing carbon dioxide levels to increase and thereby increasing the effects of man-made global warming. It is also worth noting that our gut microbiota quietly carries out a vast number of processes in our own body throughout the day, allowing us to live comfortably. Suffice to say, a world without microorganisms would be an enormous shift.  
+
+
+#### **Conclusion**
+Prokaryotes are the drivers of this planet. They are responsible for the majority of the global atmospheric conditions, have the ability to maintain diversity and important pathways in ways that humans can not, and carry out processes that are essential for and cannot be replicated by humans. A more in-depth analysis could reveal how long humans could survive and how different their quality of life would be. It remains to be seen to what extent humans could maintain their survival without microorganisms.  
+
+#### **References**
+Falkowski, P. G. *et al.* (2008). [The Microbial Engines That Drive Earth's Biogeochemical Cycles.](https://www.ncbi.nlm.nih.gov/pubmed/18497287) Science, 320, 1034-1039.  
+
+Kasting, J. F. and Siefert, J. L. (2002). [Life and the Evolution of Earth's Atmosphere.](https://www.ncbi.nlm.nih.gov/pubmed/12004117) Science, 296, 1066-1068.  
+
+Whitman, W.B., Coleman, D.C., and Wiebe, W. J. (1998). [Prokaryotes: the unseen majority.](https://www.ncbi.nlm.nih.gov/pubmed/9618454) National Academy of Science, 95, 6578-6583.   
+
+### Module 01 references
+Achenback J. 2012. [Spaceship Earth: A new view of environmentalism.](https://www.washingtonpost.com/national/health-science/spaceship-earth-a-new-view-of-environmentalism/2011/12/29/gIQAZhH6WP_story.html?utm_term=.4d3aeac98db8) The Washington Post.  
+
+Canfield DE, Glazer AN, and Falkowski PG. 2010. [The Evolution and Future of Earth's Nitrogen Cycle.](https://www.ncbi.nlm.nih.gov/pubmed/20929768) Science. 330(6001):192-196.  
+
+Falkowski PG, Fenchel T, and Delong EF. 2008. [The Microbial Engines That Drive Earth's Biogeochemical Cycles.](https://www.ncbi.nlm.nih.gov/pubmed/18497287) Science. 320(5879):1034-1039.  
+
+Falkowski PG *et al*. 2000. [The Global Carbon Cycle: A Test of Our Knowledge of Earth as a System.](http://science.sciencemag.org/content/290/5490/291) Science. 290(5490):291-296.
+
+Kallmeyer J *et al.*. 2012. [Global distribution of microbial abundance and biomass in subseafloor sediment.](https://www.ncbi.nlm.nih.gov/pubmed/22927371) Proc Natl Acad Sci USA. 109(40):16213-16216.   
+
+Kasting JF and Siefert JL. 2002. [Life and the Evolution of Earth's Atmosphere.](http://science.sciencemag.org/content/296/5570/1066.long) Science. 295(5570):1066-1068.  
+
+Leopold A. 1949. [The Land Ethic.](http://rintintin.colorado.edu/~vancecd/phil3140/Leopold.pdf) Location: Publisher. *A Sand County Almanac*. 
+
+Mooney C. 2016. [Scientists say humans have now brought on an entirely new geologic epoch.](https://www.washingtonpost.com/news/energy-environment/wp/2016/01/07/scientists-say-humans-have-now-brought-on-an-entirely-new-geologic-epoch/?utm_term=.fe0893313ea1) The Washington Post.  
+
+Nisbet EG and Sleep NH. 2001. [The habitat and nature of early life.](https://www.nature.com/articles/35059210) Nature. 409:1083-1091.   
+
+Schrag DP. 2012. [Geobiology of the Anthropocene](https://onlinelibrary.wiley.com/doi/10.1002/9781118280874.ch22). Wiley Online Library.  
+
+Rockstrom J *et al.* 2009. [A safe operating space for humanity.](https://www.nature.com/articles/461472a) Nature. 461:472-475.  
+
+Waters CN *et al.* 2016. [The Anthropocene is functionally and stratigraphically distinct from the Holocene](http://science.sciencemag.org/content/351/6269/aad2622). Science. 351(6269):aad2622.  
+
+Whitman WB, Coleman DC, and Wiebe WJ. 1998. Prokaryotes: The unseen majority. Proc Natl Acad Sci USA. 95(12):6578-6583.  [PMC33863](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC33863/)  
+
+
 
 ## Data science Friday  
 
@@ -252,34 +323,6 @@ See .Rmd and .html files "DS_assignment3_19163147" in portfolio repo
 
 ### Assignment 4  
 See R script and .html files "DS_assignment4_19163147" in portfolio repo
-
-### Module 01 references
-Achenback J. 2012. [Spaceship Earth: A new view of environmentalism.](https://www.washingtonpost.com/national/health-science/spaceship-earth-a-new-view-of-environmentalism/2011/12/29/gIQAZhH6WP_story.html?utm_term=.4d3aeac98db8) The Washington Post.  
-
-Canfield DE, Glazer AN, and Falkowski PG. 2010. [The Evolution and Future of Earth's Nitrogen Cycle.](https://www.ncbi.nlm.nih.gov/pubmed/20929768) Science. 330(6001):192-196.  
-
-Falkowski PG, Fenchel T, and Delong EF. 2008. [The Microbial Engines That Drive Earth's Biogeochemical Cycles.](https://www.ncbi.nlm.nih.gov/pubmed/18497287) Science. 320(5879):1034-1039.  
-
-Falkowski PG *et al*. 2000. [The Global Carbon Cycle: A Test of Our Knowledge of Earth as a System.](http://science.sciencemag.org/content/290/5490/291) Science. 290(5490):291-296.
-
-Kallmeyer J *et al.*. 2012. [Global distribution of microbial abundance and biomass in subseafloor sediment.](https://www.ncbi.nlm.nih.gov/pubmed/22927371) Proc Natl Acad Sci USA. 109(40):16213-16216.   
-
-Kasting JF and Siefert JL. 2002. [Life and the Evolution of Earth's Atmosphere.](http://science.sciencemag.org/content/296/5570/1066.long) Science. 295(5570):1066-1068.  
-
-Leopold A. 1949. [The Land Ethic.](http://rintintin.colorado.edu/~vancecd/phil3140/Leopold.pdf) Location: Publisher. *A Sand County Almanac*. 
-
-Mooney C. 2016. [Scientists say humans have now brought on an entirely new geologic epoch.](https://www.washingtonpost.com/news/energy-environment/wp/2016/01/07/scientists-say-humans-have-now-brought-on-an-entirely-new-geologic-epoch/?utm_term=.fe0893313ea1) The Washington Post.  
-
-Nisbet EG and Sleep NH. 2001. [The habitat and nature of early life.](https://www.nature.com/articles/35059210) Nature. 409:1083-1091.   
-
-Schrag DP. 2012. [Geobiology of the Anthropocene](https://onlinelibrary.wiley.com/doi/10.1002/9781118280874.ch22). Wiley Online Library.  
-
-Rockstrom J *et al.* 2009. [A safe operating space for humanity.](https://www.nature.com/articles/461472a) Nature. 461:472-475.  
-
-Waters CN *et al.* 2016. [The Anthropocene is functionally and stratigraphically distinct from the Holocene](http://science.sciencemag.org/content/351/6269/aad2622). Science. 351(6269):aad2622.  
-
-Whitman WB, Coleman DC, and Wiebe WJ. 1998. Prokaryotes: The unseen majority. Proc Natl Acad Sci USA. 95(12):6578-6583.  [PMC33863](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC33863/)  
-
 
 
 # Module 2 
@@ -367,7 +410,7 @@ Wooley JC, Godzik A, and Friedberg I. 2010. [A Primer on Metagenomics](http://jo
 [Welch RA *et al.* 2002](https://www.ncbi.nlm.nih.gov/pubmed/12471157)  
 
 #### Learning objectives part 1: 
-Evaluate the concept of microbial species based on environmental surveys andcultivation studies. Explain the relationship between microdiversity, genomic diversity and metabolic potential. Comment on the forces mediating divergence and cohesion in natural microbial
+Evaluate the concept of microbial species based on environmental surveys and cultivation studies. Explain the relationship between microdiversity, genomic diversity and metabolic potential. Comment on the forces mediating divergence and cohesion in natural microbial
 communities
 
 
@@ -424,9 +467,9 @@ There are countless challenges that arise when attempting to define a microbial 
 Since prokaryotes do not reproduce sexually, the main driver of genetic diversity is mutations. Moreover, prokaryotes have evolved HGT systems in which different species can exchange genetic information. The problem with 16S rRNA sequencing is that it only relies on one gene, and HGT may play a large role in evolution that is not accounted for. However, HGT may also result in vastly different species being classified as phylogenetically related, even though there is not a phylogenetic relationship between the two, as HGT violates species boundaries as opposed to preserving them (Ereshefsky, 2010). Prokaryotes can also undergo homologous recombination with species that are up to 25% divergent in the sequences of homologous genes and can express plasmid genes from extremely divergent species (Rossello-Mora and Amann, 2006). This complicates species boundaries because vastly different species can share very similar genes, which makes the use of genes to identify species even more complex.  
 
 #### **Influence of HGT on biogeochemical process maintenance**
-Microorganisms are the drivers of Earth's biogeochemical cycles, and horizontal gene transfer has enabled core genes to persist. While the Earth's atmosphere has changed drastically, there exists a core set of microbial genes that still remain today (Falkowski et al., 2008). HGT allows for highly advantageous genetic information to be shared in changing environmental conditions (Drudge and Warren, 2012). These genes are responsible for coding enzymes responsible for the major biogeochemical cycles that sustain life. One example of this is sulfite reductases which are found in a variety of microorganisms such as sulfate-reducing proteobacteria, Gram-positive bacteria, and Archaea (Falkowski et al., 2008). In addition to genes, entire metabolic pathways have been transferred via HGT from microbe to microbe. HGT has allowed for the distribution of different components of biogeochemical pathways to different organisms. This trait is crucial in preventing pathways from dying out.   
+Microorganisms are the drivers of Earth's biogeochemical cycles, and horizontal gene transfer has enabled core genes to persist. While the Earth's atmosphere has changed drastically, there exists a core set of microbial genes that still remain today (Falkowski *et al.*, 2008). HGT allows for highly advantageous genetic information to be shared in changing environmental conditions (Drudge and Warren, 2012). These genes are responsible for coding enzymes responsible for the major biogeochemical cycles that sustain life. One example of this is sulfite reductases which are found in a variety of microorganisms such as sulfate-reducing proteobacteria, Gram-positive bacteria, and Archaea (Falkowski *et al.*, 2008). In addition to genes, entire metabolic pathways have been transferred via HGT from microbe to microbe. For example, the entire anoxygenic photosynthetic apparatus appears to have been transferred between phototropic proteobacteria, and similar transfers could have occurred during the establishment of oxygenic photosynthesis (Nagashima *et al.*, 1997). HGT has allowed for the distribution of different components of biogeochemical pathways to different organisms. This trait is crucial in preventing pathways from dying out.   
 
-HGT allows for the presence of redundant pathways, so that if one species went extinct, there would be numerous others that could carry out the same metabolic processes. Therefore, while certain microorganisms could be wiped out, the core machinery would survive. For example, the entire anoxygenic photosynthetic apparatus appears to have been transferred between phototropic proteobacteria, and similar transfers could have occurred during the establishment of oxygenic photosynthesis (Nagashima et al., 1997). The cause of the retention of horizontally transferred genes is likely nutritional selective pressures, which allows different organisms in different environments to preserve these genes (Falkowski et al., 2008).   
+HGT allows for the presence of redundant pathways, so that if one species went extinct, there would be numerous others that could carry out the same metabolic processes. Therefore, while certain microorganisms could be wiped out, the core machinery would survive. While many extinction events have occured over Earth's history, microorganisms have been able to maintain their essential genes that are necessary for the survival of life. The cause of the retention of horizontally transferred genes is likely nutritional selective pressures, which allows different organisms in different environments to preserve these genes (Falkowski *et al.*, 2008).   
 
 #### **Necessity of microbial species definition**
 I believe it is important to have a clear definition for what is considered a microbial species. Without a recognized definition, we would have no basis to judge whether species diversity was increasing or decreasing over time. In addition, we wouldn't be able to track evolutionary change, namely because if we don't have definitions for species, we cannot know when new species arise. In addition, if a universal definition for species isn't used among researchers, it will result in inconsistencies when a claim is made about a new species. Furthermore, inconsistency is species definition would be troublesome for pathologists when trying to identify the cause of an infection. If two related species are broadly claimed to be the same species due to inconsistent species definitions, then an inappropriate treatment may be recommended.    
@@ -436,25 +479,25 @@ Sogin et al. estimate that the complexity of microbial life is 100 times greater
 However, it may be possible for some leniency to be allowed with the species definition. Prokaryotes have many different modes of evolution, so a strict species definition may not encompass these varying methods. Due to horizontal gene transfer, the boundary that separates species is blurred. Similar to how defining a eukaryotic species is different than a prokaryotic species due to the differences in the reproduction, perhaps there could be some differences in the definitions of different prokaryotic groups based on their methods of reproduction. This may allow for consistency based on organisms who use horizontal gene transfer and other forms of genetic exchange, and organisms who primary reproduce by binary fission and evolve through mutations.   
 
 #### **Conclusion**
-Defining prokaryotic species is one of the major challenges facing the microbiological world today. Without a clear species definition, inconsistencies among researchers, ecologists, and pathologists could arise, hindering their ability to move forward in their fields. Horizontal gene transfer is a large factor in microbial genetic exchange, even between unrelated microbial species. While this process allows for the conservation of core genes responsible for the regulation of Earth's biogeochemical processes, it makes it increasingly difficult to identify species and differentiate them. Ochman et al. have looked at the extent of gene transfer that occurs within species and between species, and a more in-depth analysis could look further at the major processes that have been conserved due to horizontal gene transfer. It remains to be seen how HGT will affect the ever-changing definition of a microbial species.  
+Defining prokaryotic species is one of the major challenges facing the microbiological world today. Without a clear species definition, inconsistencies among researchers, ecologists, and pathologists could arise, hindering their ability to move forward in their fields. Horizontal gene transfer is a large factor in microbial genetic exchange, even between unrelated microbial species. While this process allows for the conservation of core genes responsible for the regulation of Earth's biogeochemical processes, it makes it increasingly difficult to identify species and differentiate them. Ochman *et al.* have looked at the extent of gene transfer that occurs within species and between species, and a more in-depth analysis could look further at the major processes that have been conserved due to horizontal gene transfer. It remains to be seen how HGT will affect the ever-changing definition of a microbial species.  
 
 #### **References**
 Drudge, C.N. and Warren, L.A. (2012). [Prokaryotic Horizontal Gene Transfer in Freshwaer Lakes: Implications of Dynamic Biogeochemical Zonation.](http://file.scirp.org/Html/5-6701657_25690.htm) Journal of Environmental Protection, 3(12): 1634-1654.  
 
 Ereshefksy, M. (2010). [Microbiology and the species problem.](https://phil.ucalgary.ca/marcereshefsky/sites/phil.ucalgary.ca.marcereshefsky/files/microbiology_and_species.pdf) Biol Philos, 25: 553-568. 
 
-Falkowski, P.G. et al. (2008). [The Microbial Engines That Drive Earth's Biogeochemical Cycles.](https://www.ncbi.nlm.nih.gov/pubmed/18497287) Science, 320, 1034-1039.  
+Falkowski, P.G. *et al.* (2008). [The Microbial Engines That Drive Earth's Biogeochemical Cycles.](https://www.ncbi.nlm.nih.gov/pubmed/18497287) Science, 320, 1034-1039.  
 
 
-Nagashami, K.V.P. et al. (1997). [Horizontal transfer of genes coding for the photosynthetic reaction centers of purple bacteria.](https://link.springer.com/article/10.1007%2FPL00006212) Journal of Molecular Evolution, 45(2): 131-136. 
+Nagashami, K.V.P. *et al.* (1997). [Horizontal transfer of genes coding for the photosynthetic reaction centers of purple bacteria.](https://link.springer.com/article/10.1007%2FPL00006212) Journal of Molecular Evolution, 45(2): 131-136. 
 
-Ochman, H. et al. (2000). [Lateral gene transfer and the nature of bacterial innovation.](https://www.ncbi.nlm.nih.gov/pubmed/10830951) Nature, 405(6784): 299-304.
+Ochman, H. *et al.* (2000). [Lateral gene transfer and the nature of bacterial innovation.](https://www.ncbi.nlm.nih.gov/pubmed/10830951) Nature, 405(6784): 299-304.
 
 Riley, M.A. and Lizotte-Waniewski M. (2009). [Population Genomics and the Bacterial Species Concept.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2842946/) Methods Mol Bol, 532: 366-377.  
 
 Rossello-Mora, R. and Amann, R. (2006). [The species concept for prokaryotes.](https://www.ncbi.nlm.nih.gov/pubmed/11152940) FEMS Microbiology Reviews, 25(1).  
 
-Sogin, M.L. et al. (2006). [Microbial diversity in the deep sea and the underexplored "rare biosphere".](https://www.ncbi.nlm.nih.gov/pubmed/16880384) PNAS, 103(32): 12115-12120.  
+Sogin, M.L. *et al.* (2006). [Microbial diversity in the deep sea and the underexplored "rare biosphere".](https://www.ncbi.nlm.nih.gov/pubmed/16880384) PNAS, 103(32): 12115-12120.  
 
 Wilkins, J.S. (2006). [The Concept and Causes of Microbial Species.](http://philsci-archive.pitt.edu/3426/) Hist. Phil. Life Sci., 28: 389-408.  
 
